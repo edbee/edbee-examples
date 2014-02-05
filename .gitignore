@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+
+# qt-creator build directories:
+build-*
+*.pro.user
